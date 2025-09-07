@@ -15,4 +15,3 @@ Ad Musicly is a full-featured music streaming platform inspired by Spotify. It a
 - 📊 Track popular, trending, and recently played songs
 - 🧠 Smart recommendations (optional AI-based)
 - 🛠️ Admin panel to manage content (songs, artists, albums).
-- 
